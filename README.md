@@ -30,22 +30,17 @@ Project Structure
 
 bash
 Copy code
-├── Mall_Customers.csv # Dataset file
+Mall_Customers.csv # Dataset file
 
-├── README.md # Project documentation
+README.md # Project documentation
 
-└── kmeans_clustering.ipynb # Jupyter notebook with the clustering analysis
+kmeans_clustering.ipynb # Jupyter notebook with the clustering analysis
 
 Requirements
 
 Python 3.x
 Jupyter Notebook
 Libraries: pandas, numpy, matplotlib, seaborn, sklearn
-You can install the required libraries with the following command:
-
-* bash Copy code pip install pandas numpy matplotlib seaborn scikit-learn Setup and Usage Clone the Repository: Clone this repository to your local machine.
-
-* bash Copy code git clone https://github.com/your-username/customer-segmentation.git
 
 Upload Data to Google Colab (if using Colab): Run the Jupyter Notebook kmeans_clustering.ipynb in Google Colab or Jupyter Notebook.
 
